@@ -29,9 +29,11 @@
 </div>
  <br>
  <hr>
+ <div align="center" style="text-align:center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmoon0&show_icons=true&theme=radical)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmoon0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+  
+<br>
